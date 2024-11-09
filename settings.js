@@ -17,13 +17,13 @@ global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉Limule Solitarus' //owner name
+global.ownernumber = '50940141783'  //creator number
+global.ownername = 'Haen' //owner name
 global.botname = '💞𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓💞' //name of the bot
 
 //sticker details
-global.packname = '🍭𝐒𝐞𝐱𝐲 𝐒𝐡𝐮𝐧𝐚-𝐛𝐨𝐭'
-global.author = '🐉Limule Solitarus'
+global.packname = 'Ice'
+global.author = 'Haaen'
 
 //console view/theme
 global.themeemoji = '🪀'
